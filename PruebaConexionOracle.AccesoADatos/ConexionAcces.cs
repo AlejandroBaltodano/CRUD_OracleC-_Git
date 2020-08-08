@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 using System.Data.OleDb;
 using System.Windows.Forms;
 using System.Data;
-
+/// <summary>
+/// agregando a charles en git
+/// </summary>
 namespace PruebaConexionOracle.AccesoADatos
 {
    public class ConexionAcces

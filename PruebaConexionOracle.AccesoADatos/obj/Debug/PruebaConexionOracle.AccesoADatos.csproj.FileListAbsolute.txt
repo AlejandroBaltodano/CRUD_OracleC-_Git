@@ -1,0 +1,8 @@
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.AccesoADatos\bin\Debug\PruebaConexionOracle.AccesoADatos.dll
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.AccesoADatos\bin\Debug\PruebaConexionOracle.AccesoADatos.pdb
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.AccesoADatos\obj\Debug\PruebaConexionOracle.AccesoADatos.dll
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.AccesoADatos\obj\Debug\PruebaConexionOracle.AccesoADatos.pdb
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.AccesoADatos\bin\Debug\PruebaConexionOracle.AccesoADatos.dll.config
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.AccesoADatos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.AccesoADatos\obj\Debug\PruebaConexionOracle.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.AccesoADatos\obj\Debug\PruebaConexionOracle.AccesoADatos.csproj.CopyComplete

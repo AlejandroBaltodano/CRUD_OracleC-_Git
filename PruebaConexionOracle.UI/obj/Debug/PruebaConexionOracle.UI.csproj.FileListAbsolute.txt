@@ -1,0 +1,17 @@
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\bin\Debug\PruebaConexionOracle.UI.exe.config
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\bin\Debug\PruebaConexionOracle.UI.exe
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\bin\Debug\PruebaConexionOracle.UI.pdb
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\bin\Debug\PruebaConexionOracle.AccesoADatos.dll
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\bin\Debug\PruebaConexionOracle.AccesoADatos.pdb
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.frmPruebaConexionOracle.resources
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.Properties.Resources.resources
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.csproj.GenerateResource.Cache
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.exe
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.pdb
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\bin\Debug\PruebaConexionOracle.AccesoADatos.dll.config
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.csprojAssemblyReference.cache
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.csproj.CoreCompileInputs.cache
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.csproj.CopyComplete
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.frmInsertar.resources
+C:\Users\Creyes\Documents\Visual Studio 2015\Projects\PruebaConexionOracle\PruebaConexionOracle.UI\obj\Debug\PruebaConexionOracle.UI.frmEditar.resources
